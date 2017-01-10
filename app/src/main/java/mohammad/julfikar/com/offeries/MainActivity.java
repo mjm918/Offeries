@@ -9,8 +9,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.crash.FirebaseCrash;
 
 import mohammad.julfikar.com.offeries.Helper.Helper;
 
@@ -21,11 +23,16 @@ public class MainActivity extends AppCompatActivity {
     private TextView tv_slow_connection;
     private TextView tv_auth;
     private Context context = this;
+    private FirebaseAnalytics mFirebaseAnalytics;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        FirebaseCrash.report(new Exception("Non-fatal error. App Started"));
+
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
         Helper helper = new Helper(MainActivity.this);
 
@@ -44,7 +51,18 @@ public class MainActivity extends AppCompatActivity {
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
                 FirebaseUser user = firebaseAuth.getCurrentUser();
                 if(user != null){
-                    System.out.println("onAuthStateChanged:signed_in:" + user.getUid());
+                    String email = user.getEmail();
+                    String uid = user.getUid();
+
+                    Bundle bundle = new Bundle();
+                    bundle.putString(FirebaseAnalytics.Param.ITEM_ID, uid);
+                    bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, email);
+                    mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
+
+                    mFirebaseAnalytics.setAnalyticsCollectionEnabled(true);
+                    mFirebaseAnalytics.setMinimumSessionDuration(20000);
+                    mFirebaseAnalytics.setSessionTimeoutDuration(500);
+
                     Intent intent = new Intent(MainActivity.this, StoryBoard.class);
                     intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     context.startActivity(intent);

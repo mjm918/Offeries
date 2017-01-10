@@ -2,9 +2,5 @@
     {
         "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v23/abc_control_background_material.xml"
-    },
-    {
-        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
-        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

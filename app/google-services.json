@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "791184084093-7q5ur8ub3il0kej3tn8qqbqqe5nbsj5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mohammad.julfikar.com.offeries",
+            "certificate_hash": "410DF4E14A7580651119015722590F9C5B942CB5"
+          }
+        },
+        {
           "client_id": "791184084093-ca8lb1rl52vqgl4qinp0ifms3k0pr4h2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

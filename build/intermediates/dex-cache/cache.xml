@@ -3,255 +3,300 @@
 
     <item
         is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_4da54f97413554cc256d1c1fb928005b60c14b58.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_7a9bc968ce9a0ec5be4c59b6d22c71407c41da40.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="dbdef12c1fecdaf3e073cc8289ba0740b1e59e6f">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6bb7cb308121387c143705e036918748f1f7687a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_c6358ef79030230be0e97633c573f92b2105b06e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_6021bc18ef85e4591af752868e10e9d6f60b85a6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_7dd55af4ed6fcc179006227ac41ae05fc66c90a5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_75e9fda464c71f2a7e07659541288f5fcd5d68da.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_580d922d27993a8aa4038b0e9737fde3e6d50436.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_87752f07c6365dc9521bd07c5632e28f1f13666a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_9bbf939cfc9c2de041993893e6114c73a91c168e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_bce4ec7c3f481def25d3d708730870942eb0c99f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_d581cc4da591eb97380b11c2bc2dd75c63ac11e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_3773733fe22d4c58d5064e494966efb8042f76fe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_de02b2aebe1e473cfbe4887ae2b623058cbe2ebb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_b774980af725f51a8c43ff820409dbca93bb9ef8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_62b72e7c571e103e946c10329116594197255ed4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.3.0_5fa0cc8b2573e5f187287367b35c60cd8cf59288.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_b1d32f58346ed35b3865537de5718951a9aea5af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_d145b18281a8a92940f6db6818ff02bcef7b3eea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_3a6a66cc7b3de280b60c270c59ab4f3f0abc1c9f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_0b88ab6f15b6d4fd396867fa23c165491d671bfc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="7f2420506110902f033406b25697cf97ee8c38b2">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.0_626431e123789b76b828f51be8e336c4fa8df537.jar" />
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.0_93e9957a314c560526cdd04029ea3faf2553945a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_a5a6415bbb0e5f39e83f5f6c7e5c044073e2b583.jar" />
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_db2b7d7300b4c63cdad4dd74013be1c155d698c9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_daf864b3592d95da60cc1c540cdd9cd8b4037da9.jar" />
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_68b49225f7fa9e7ee865013262cfc71b3d2ce717.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_9054b68423bd7c65e1c652edcdfc5774152bef1f.jar" />
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_9f47e85ff2d43685a1d556d2ff620f8a42faf22b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_fabf46995e5041642c932471d72aead5976b00af.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_e7d9af37b2a21a02d85e8f4b0d33da04c4832a1c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.1_eef97f0d329d905a75fa96eb656e1dffa1fdfd30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_d5f9ea93f184defd5663006d7f7ae50b23c195d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_fc49d8295ca21b97f2abf13f1c7a4db4b05fef10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_bbae67f3105ce30eec2216b10f07b4d886f9bc37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_d1d9e204e40bd5270853d27552ed70a9600fcfcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_8fd9336a95908855f3ad9f77a1e30ef629cbf7dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_d3f49dd0e09b55b35f72449f3f76d26a2b3cb7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
         sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_0e361132770b8d9925c10af4a1ea926d6134e3e8.jar" />
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_c0ffdd3cff097e1f4cb4aa6ae21b61ed40908cac.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="29600714c6482b488e5a23a38b9a7460cac89af1">
-        <dex dex="/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/pre-dexed/debug/instant-run_2c703500206f2d3026c7c262789fe2a519f6b7c9.jar" />
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_bf58ec0cff17d59c03f0106fd43d53d1c621083d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_5d2efe537c1a9b0d84d7d94ca6b67b69282e51a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_02790316081b56d6c30f592c2873e37eb9807065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c286740927be563704be1e493922b50e43b92d4">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9c99de372a7a18cd95dd263c2af30607007239bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="32203e6f503590d1bd2989b0c0615320f22d2f9a">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/instant-run_97d6428bba2e5378f32ba1e998d72d5f084c8776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_4e9f3c019d01b63b79a375d0f6611cb498372904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_29cb9bb6fd5920be65cb0a4f3627d33079b237f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_e25add50b7e260a62b75e31ea76ad2497510f1fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_20f021c937c65c4fc764b3bd877db033632bc9dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.0.1_61b60ed2442fd95fdbfe8edf2a46c0c18f8e1974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.3.0_14758fba50ff9e6450994a262928ba4b30b25d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_88d8458a7392d82291cab2247f40efb2478ba4ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_6c5ada77ca8bb98b4052f4e9853e8123336b20ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_81330d5b6d1afa9823c8417eeb93671a9e140b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_b9f6fd2495aa152cb06db57a66972ee7e9bb851a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_f5c8919347fcce46e3f86bb027eb6fb1e50fe170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_f004f2bfc5a0ec8f0e7e9dac02511d1aa29f56e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_b577b7ea433e5cc7c5482ab6c3beb228481cec60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_5984015f14140dea2d1eb139e644268f30cd6cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.1_d2fac00fa6e33c15bbb46ba20a0f96cd73fa6bd5.jar" />
     </item>
 
 </items>

@@ -29,6 +29,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.VolleyLog;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.crash.FirebaseCrash;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -164,6 +165,7 @@ public class StoryBoard extends AppCompatActivity implements View.OnClickListene
                 }
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
+                FirebaseCrash.report(e);
             }
 
         } else {
@@ -229,6 +231,7 @@ public class StoryBoard extends AppCompatActivity implements View.OnClickListene
 
         } catch (JSONException e) {
             e.printStackTrace();
+            FirebaseCrash.report(e);
         }
     }
 

@@ -5,32 +5,32 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="29956953924460"
-    token="9055491808672553565"
+    timestamp="8593440083564"
+    token="-7998369429733265996"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="414" />
+        duration="7778" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="268" />
+        duration="1652" />
     <task
         name="verifier"
-        duration="223" />
+        duration="30" />
 
     <artifact
-        location="/Users/mobiletwo/Desktop/Offeries/app/build/outputs/apk/app-debug.apk"
+        location="/home/mohammad/Android/Offeries/Offeries/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="29956953924460"
+        timestamp="8593440083564"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/mobiletwo/Desktop/Offeries/app/build/outputs/apk/app-debug.apk"
+            location="/home/mohammad/Android/Offeries/Offeries/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 
