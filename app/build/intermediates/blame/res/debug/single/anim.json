@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/clockwise.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/clockwise.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/extrazoom.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/extrazoom.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/rotate_forward.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/rotate_forward.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/slide.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/slide.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/move.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/move.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/slide.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/slide.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/rotate_backward.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/rotate_backward.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/rotate_forward.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/rotate_forward.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/fab_open.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/fab_open.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/blink.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/blink.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/rotate_backward.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/rotate_backward.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/fab_close.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/fab_close.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/fade.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/fade.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/fab_close.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/fab_close.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/blink.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/blink.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/fab_open.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/fab_open.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/extrazoom.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/extrazoom.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mobiletwo/Desktop/Offeries/app/build/intermediates/res/merged/debug/anim/move.xml",
+        "source": "/Users/mobiletwo/Desktop/Offeries/app/src/main/res/anim/move.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/fade.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/fade.xml"
+    },
+    {
+        "merged": "/home/mohammad/Android/Offeries/Offeries/app/build/intermediates/res/merged/debug/anim/clockwise.xml",
+        "source": "/home/mohammad/Android/Offeries/Offeries/app/src/main/res/anim/clockwise.xml"
+    }
+]

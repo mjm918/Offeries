@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="DefaultColor">#FF7043</color>
+    <color name="textColor">#F3E5F5</color>
+    <color name="primaryColor">#9E9E9E</color>
+    <color name="buttonColor">#f44336</color>
+
+    <color name="white">#fff</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+
+    <color name="fabDefault">#29B6F6</color>
+    <color name="fabLogout">#e53935</color>
+    <color name="fabHome">#FFEB3B</color>
+    <color name="fabSearch">#66BB6A</color>
+    <color name="fabSettings">#8C9EFF</color>
+
+    <color name="toolbar">#FAFAFA</color>
+
+</resources>

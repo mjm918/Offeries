@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "791184084093",
+    "firebase_url": "https://offeries-f2e48.firebaseio.com",
+    "project_id": "offeries-f2e48",
+    "storage_bucket": "offeries-f2e48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791184084093:android:5c654bd42e882a51",
+        "android_client_info": {
+          "package_name": "mohammad.julfikar.com.offeries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791184084093-ca8lb1rl52vqgl4qinp0ifms3k0pr4h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mohammad.julfikar.com.offeries",
+            "certificate_hash": "A002C6EDA74791F90E2540D54BEF89DB5B50F4BB"
+          }
+        },
+        {
+          "client_id": "791184084093-aefkodl3nph3d58qkvu40hkocubfcr1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn4MEyxFzbwSF148n2JZeCUn1TsWJh-wc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791184084093-aefkodl3nph3d58qkvu40hkocubfcr1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

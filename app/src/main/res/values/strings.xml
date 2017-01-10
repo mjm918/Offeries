@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Offeries</string>
+    <string name="loading">Please Wait...\n Authenticating User</string>
+    <string name="slow_connection">You may have a slow connection or no connection.\nPlease Check your connection</string>
+    <string name="no_connection">No Internet Connection</string>
+    <string name="no_connection_msg">Please Connect to Internet</string>
+    <string name="offline">Go Offline</string>
+    <string name="connect">Connect to Internet</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="signup_now">Not registered yet? Register Now</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="re_password">Confirm Password</string>
+    <string name="re_login">Already Registered. Log me In!</string>
+    <string name="confirm_exit">Confirm Exit?</string>
+    <string name="confirm_exit_msg">Are you sure?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="registered_email">Type Your Registered Email</string>
+    <string name="loading_feed">Please wait..\nLoading your feed</string>
+</resources>
